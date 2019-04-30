@@ -5,7 +5,7 @@ WeUI for 小程序 为微信小程序量身设计 (px 转 rpx 版)
 [![Gitter](https://badges.gitter.im/weui/weui.svg)](https://gitter.im/weui/weui?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 ## 修改
-- 添加 [gulp-px2rpx](https://www.npmjs.com/package/gulp-px2rpx),是px 转为相应的rpx单位，dist-rpx文件手动对2rpx微调为1rpx。
+- 添加 [gulp-px2rpx](https://www.npmjs.com/package/gulp-px2rpx),将px 转为相应的rpx单位，并微调1px细线。
 - 2019-4-30
 
 ## 概述

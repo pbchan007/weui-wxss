@@ -61,7 +61,7 @@
 }
 .weui-media-box__info__meta_extra {
     padding-left: 1em;
-    border-left: 1px solid #CECECE;
+    border-left: 1rpx solid #CECECE;
 }
 .weui-media-box_text {
 }
