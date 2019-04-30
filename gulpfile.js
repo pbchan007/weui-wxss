@@ -59,7 +59,7 @@ gulp.task('build:example', function() {
       ],
       { base: 'src' }
     )
-    .pipe(gulp.dest('dist'));
+    .pipe(gulp.dest('dist-rpx'))
 });
 
 gulp.task('default', ['watch', 'build:style', 'build:example']);
